@@ -1,0 +1,6 @@
+E:\Алексей\C#\Figures\Figures\bin\Release\Figures.dll
+E:\Алексей\C#\Figures\Figures\bin\Release\Figures.pdb
+E:\Алексей\C#\Figures\Figures\obj\Release\Figures.csproj.AssemblyReference.cache
+E:\Алексей\C#\Figures\Figures\obj\Release\Figures.csproj.CoreCompileInputs.cache
+E:\Алексей\C#\Figures\Figures\obj\Release\Figures.dll
+E:\Алексей\C#\Figures\Figures\obj\Release\Figures.pdb

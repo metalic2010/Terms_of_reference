@@ -1,0 +1,6 @@
+E:\Алексей\C#\Figures\Figures\bin\Debug\Figures.dll
+E:\Алексей\C#\Figures\Figures\bin\Debug\Figures.pdb
+E:\Алексей\C#\Figures\Figures\obj\Debug\Figures.csproj.AssemblyReference.cache
+E:\Алексей\C#\Figures\Figures\obj\Debug\Figures.csproj.CoreCompileInputs.cache
+E:\Алексей\C#\Figures\Figures\obj\Debug\Figures.dll
+E:\Алексей\C#\Figures\Figures\obj\Debug\Figures.pdb
